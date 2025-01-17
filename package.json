@@ -1,0 +1,24 @@
+{
+  "name": "cypressapi_sanbercode",
+  "version": "1.0.0",
+  "description": "Task dari materi Cypress Test untuk API dari sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo cypress/e2e/3-SanberCode-API/getuser.cy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezaparamarta/CypressAPI_SanberCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rezaparamarta/CypressAPI_SanberCode/issues"
+  },
+  "homepage": "https://github.com/rezaparamarta/CypressAPI_SanberCode#readme",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
