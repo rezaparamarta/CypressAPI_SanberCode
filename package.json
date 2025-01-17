@@ -4,7 +4,7 @@
   "description": "Task dari materi Cypress Test untuk API dari sanbercode",
   "main": "index.js",
   "scripts": {
-    "test": "echo cypress/e2e/3-SanberCode-API/getuser.cy.js"
+    "testGet": "npx cypress run --spec cypress/e2e/3-SanberCode-API/getuser.cy.js"
   },
   "repository": {
     "type": "git",
